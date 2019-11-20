@@ -1,0 +1,4 @@
+Q1:
+YES,in the results we can see they are similar with each other and they may be from the same book and some results are not english.
+Q2:
+from the results, we can see the most occurence happened in 1950-1960, we can do more filter apporach in this period.
